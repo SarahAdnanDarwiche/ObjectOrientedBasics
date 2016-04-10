@@ -90,9 +90,6 @@ int main() {
   B.Parent::printAge();
 
   ////////////////////
-  
-  //B.setAge(3,5);
 
-  //B.printAge();
 
 }
