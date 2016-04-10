@@ -90,10 +90,10 @@ int main() {
   
 
   /*** B4 ***/
-  /*      
+       
   Parent P;
 
   P.increaseAge();
   P.printAge();
-  */
+  
 }
